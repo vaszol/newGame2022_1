@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# large content
+Content/AdvancedVillagePack
+Content/AnimalVarietyPack
+Content/KiteDemo
+Content/PN_OpenWorldFoliage
